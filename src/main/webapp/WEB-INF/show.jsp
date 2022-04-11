@@ -13,5 +13,6 @@
 <p>En ${number} años estaras viviendo en <c:out value="${ciudad}"/>. Con ${famoso} como compañero
  de cuarto. Estaras ${hobby} para ganarte la vida. Como ${signo}
   tendras buena suerte si cantas todas las mañanas. Y recuerda: ${frase} . </p>
+  <a href="/">Salir</a>
 </body>
 </html>

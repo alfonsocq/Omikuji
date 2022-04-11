@@ -39,6 +39,7 @@
     <label for="exampleFormControlTextarea5">Inserta un dicho o refran</label>
     <textarea class="form-control" name="frase" id="exampleFormControlTextarea5" rows="3"></textarea>
   </div>  
+  <h5>Mandalo y muestralo a un amigo</h5> 
   <input type="submit">
 </form>
   
